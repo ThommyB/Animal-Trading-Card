@@ -3,15 +3,13 @@
 font-family: Arial, Helvetica, sans-serif;
 }
 
-#heading
+.heading
 {
     font-style: italic;
 }
 
-#name
+.name
 {
-    padding-bottom: 0px;
-    padding-top: 2px;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -24,9 +22,10 @@ font-family: Arial, Helvetica, sans-serif;
     border-style: none;
 }
 
-#list
+.list
 {
     list-style-type: none;
+    padding-left: 0px;
 }
 
 .label
