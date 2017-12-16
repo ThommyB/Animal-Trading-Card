@@ -1,0 +1,50 @@
+*
+{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#heading
+{
+    font-style: italic;
+}
+
+#name
+{
+    padding-bottom: 0px;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.img
+{
+    width: 300px;
+    padding: 10px;
+    border-style: none;
+}
+
+#list
+{
+    list-style-type: none;
+}
+
+.label
+{
+    font-weight: bold;
+    text-align: left;
+}
+
+.border
+{
+    border: 1px solid;
+    border-color: lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.whole
+{
+    width: 320px;
+    box-shadow: 0.5em 0.5em 0.25em #e6e6e6;
+}
